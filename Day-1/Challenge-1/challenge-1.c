@@ -2,5 +2,6 @@
 
 int main()
 {
-    printf("VIVID IMAGINATION");
+    printf("\nVIVID IMAGINATION!!!\n");
+    printf("\n");
 }
